@@ -25,4 +25,7 @@ Sou apaixonado por desenvolver soluções de software e tenho experiência em li
    <a href="https://www.instagram.com/_arthursilva7/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
    </a>
+   <a href="http://www.arthursd.blog/">
+    <img src="https://img.shields.io/badge/-Website-%23444444?style=for-the-badge&logo=internet-explorer&logoColor=white" style="max-width: 100%;">
+   </a>
 </div>
