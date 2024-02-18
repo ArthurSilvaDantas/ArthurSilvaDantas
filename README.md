@@ -2,7 +2,7 @@
 
 Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul. Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Federal de Mato Grosso do Sul. Exerci o papel de pesquisador no NIPETI (Núcleo Interdisciplinar de Pesquisa, Estudo e Desenvolvimento em Tecnologia da Informação) por aproximadamente 2 anos.
 
-Sou apaixonado por desenvolver soluções de software e tenho experiência em linguagens de programação como JavaScript e Python, além de experiência em Banco de Dados, assim como em áreas de estudo como IoT e Cultura Maker. Busco constantemente integrar todo o meu conhecimento para aplicar conceitos dessas áreas no desenvolvimento de softwares e produtos eficientes e de qualidade. Estou sempre em busca de aprender mais e me manter atualizado com as tendências do setor de tecnologia e programação.
+Sou apaixonado por desenvolver soluções de software e web, também possuo experiência em linguagens de programação como JavaScript e Python, além de experiência em Banco de Dados, assim como em áreas de estudo como IoT e Cultura Maker. Busco constantemente integrar todo o meu conhecimento para aplicar conceitos dessas áreas no desenvolvimento de softwares e produtos eficientes e de qualidade. Estou sempre em busca de aprender mais e me manter atualizado com as tendências do setor de tecnologia e programação.
 
 
 ##
