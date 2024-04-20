@@ -16,9 +16,6 @@ Sou apaixonado por desenvolver soluções de software e web, com experiência em
 ##
  
 <div>
-   <a href="http://www.arthursd.blog/">
-    <img src="https://img.shields.io/badge/-Website-%23444444?style=for-the-badge&logo=internet-explorer&logoColor=white" style="max-width: 100%;">
-   </a>
    <a href="https://www.linkedin.com/in/arthur-SD15">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
    </a>
