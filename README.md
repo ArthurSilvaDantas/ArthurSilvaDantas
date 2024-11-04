@@ -1,4 +1,4 @@
- ## Nice to meet you, I'm Arthur Silva Dantas! 👋
+ ## :wave: Nice to meet you, I'm Arthur Silva Dantas!
 
 Sou estudante de Bacharelado em Engenharia de Software na Universidade Federal de Mato Grosso do Sul, com formação prévia em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul. Por dois anos, fui pesquisador no NIPETI (Núcleo Interdisciplinar de Pesquisa, Estudo e Desenvolvimento em Tecnologia da Informação) e atualmente sou membro do GATEC (Grupo de Tecnologias e Ensino de Ciências), onde contribuo na Diretoria de Sistemas.
 
@@ -10,39 +10,30 @@ Sou imensamente apaixonado em resolver problemas complexos por meio da tecnologi
 </div>
 
 
+## :dart: Skills/Tools
+
+![React](https://img.shields.io/badge/react-%2328232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234F5BDB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%231572B6.svg?style=for-the-badge&logo=prisma&logoColor=black)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-## Skills:
-<div align="center">
-   <img src="https://img.shields.io/badge/React-%2328232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-   <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-   <img src="https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-   <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-   <img src="https://img.shields.io/badge/PostgreSQL-%234F5BDB?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-   <img src="https://img.shields.io/badge/Prisma-%231572B6?style=for-the-badge&logo=prisma&logoColor=black" alt="Prisma" />
-   <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-   <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-   <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</div>
+## :telephone: Contact
 
-
-## Contacts:
-
-<div>
-   <a href="https://www.instagram.com/_arthursilva7/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
-   </a>
-   <a href="mailto:contato.arthurdantas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-   </a>
-   <a href="https://www.linkedin.com/in/arthur-SD15">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-   </a>
-</div>
+> [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
+> [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-SD15)
 
 ![](https://komarev.com/ghpvc/?username=Arthur-SD15&label=📈+You+are+visitor+number&color=green)
