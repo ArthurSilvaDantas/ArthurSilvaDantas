@@ -8,7 +8,6 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 </div>
 
 
-
 ## :dart: Skills/Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +34,7 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 ## :telephone: Contact
 
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-SD15)
-> [![arthurdantas.com.br](https://img.shields.io/badge/arthurdantas.com.br-%23696969?style=for-the-badge&logoColor=white)](https://www.arthurdantas.com.br)
+> [![arthurdantas.com](https://img.shields.io/badge/arthurdantas.com.br-%23696969?style=for-the-badge&logoColor=white)](http://www.arthurdantas.com/)
 > [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
 > [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
 
