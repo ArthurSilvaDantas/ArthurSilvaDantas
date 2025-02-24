@@ -18,6 +18,7 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2328232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
@@ -34,9 +35,9 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 
 ## :telephone: Contact
 
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-SD15)
-> [![arthurdantas.com](https://img.shields.io/badge/arthurdantas.com-%23696969?style=for-the-badge&logoColor=white)](http://www.arthurdantas.com/)
-> [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
-> [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-SD15)
+[![arthurdantas.com](https://img.shields.io/badge/arthurdantas.com-%23696969?style=for-the-badge&logoColor=white)](http://www.arthurdantas.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
 
 ![](https://komarev.com/ghpvc/?username=Arthur-SD15&label=📈+You+are+visitor+number&color=green)
