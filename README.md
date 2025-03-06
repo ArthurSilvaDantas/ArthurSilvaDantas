@@ -35,7 +35,7 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 
 ## :telephone: Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthursdantas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthursdantas/)
 [![arthurdantas.com](https://img.shields.io/badge/arthurdantas.com-%23696969?style=for-the-badge&logoColor=white)](http://www.arthurdantas.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
