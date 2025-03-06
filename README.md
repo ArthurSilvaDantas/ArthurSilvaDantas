@@ -3,8 +3,8 @@
 I am a Bachelor's student in Software Engineering with experience as a full-stack developer. I have knowledge of programming languages such as JavaScript and Python, as well as experience with frameworks, libraries, agile methodologies, and Software Engineering practices aimed at promoting efficient project management. I strive to balance my technical and managerial skills, with the goal of developing scalable, user-friendly, efficient, and high-quality software. My objective is to contribute to the advancement of Software Engineering in the industry by creating innovative solutions and collaborating on projects that have a positive impact on society.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api?username=Arthur-SD15&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api/top-langs/?username=Arthur-SD15&layout=compact&langs_count=7&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api?username=ArthurSilvaDantas&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api/top-langs/?username=ArthurSilvaDantas&layout=compact&langs_count=7&include_all_commits=true&theme=dark"/>
 </div>
 
 
@@ -35,9 +35,9 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 
 ## :telephone: Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-SD15)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthursdantas)
 [![arthurdantas.com](https://img.shields.io/badge/arthurdantas.com-%23696969?style=for-the-badge&logoColor=white)](http://www.arthurdantas.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arthurdantas.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthursilva7/)
 
-![](https://komarev.com/ghpvc/?username=Arthur-SD15&label=📈+You+are+visitor+number&color=green)
+![](https://komarev.com/ghpvc/?username=ArthurSilvaDantas&label=📈+You+are+visitor+number&color=green)
