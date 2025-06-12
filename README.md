@@ -18,7 +18,6 @@ I am a Bachelor's student in Software Engineering with experience as a full-stac
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=white)
 
 #### :gear: Back End Development
