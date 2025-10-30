@@ -1,6 +1,6 @@
  ## :wave: Nice to meet you, I'm Arthur Silva Dantas!
 
-I am a Bachelor's student in Software Engineering with experience as a full-stack developer. I have knowledge of programming languages such as JavaScript, Typescript and PHP, as well as experience with frameworks, libraries, agile methodologies, and Software Engineering practices aimed at promoting efficient project management. I strive to balance my technical and managerial skills, with the goal of developing scalable, user-friendly, efficient, and high-quality software. My objective is to contribute to the advancement of Software Engineering in the industry by creating innovative solutions and collaborating on projects that have a positive impact on society.
+I am a Software Engineering student with experience as a full-stack developer. I have knowledge of programming languages such as JavaScript, TypeScript, and PHP, as well as experience with frameworks, libraries, agile methodologies, and Software Engineering practices aimed at promoting efficient project management. In addition, I have practical experience with Machine Learning and Natural Language Processing, enabling the development of intelligent applications. Overall, I strive to balance my technical and managerial skills with the goal of creating scalable, user-friendly, efficient, and high-quality software.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api?username=ArthurSilvaDantas&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
