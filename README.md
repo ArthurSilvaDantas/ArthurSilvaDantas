@@ -1,22 +1,13 @@
-## Hey, I'm Arthur Dantas :wave:
+## Hey, I'm Arthur Dantas :wave: 
 
 Software Engineer with experience designing and building scalable, distributed systems and intelligent products. From architecture decisions and trade-offs to production deployment.
-
-I work across the full depth of a system: distributed architectures, consistency models, idempotency, observability, and resilience patterns on the infrastructure side; RAG pipelines, LLM orchestration, tool calling, and context-aware system design on the ML side.
-
----
-
-#### Engineering Mindset
-- **Consistency or availability?** CAP theorem, eventual consistency, consensus protocols
-- **How does it fail?** Circuit breakers, idempotency, saga patterns, fault tolerance
-- **Can I see what's happening?** Observability, distributed tracing, structured logging
-- **Will it scale?** Load balancing, event-driven architecture, CQRS, serverless
-- **Does the ML fit?** RAG pipelines, LLM orchestration, tool calling
-
-I enjoy understanding the trade-offs behind every architectural decision.
-
----
  
+I work across the full depth of a system: distributed architectures, consistency models, idempotency, observability, and resilience patterns on the infrastructure side; RAG pipelines, LLM orchestration, tool calling, and context-aware system design on the ML side.
+ 
+I write software that is testable, maintainable, and built to scale. I think about consistency vs availability, how it fails, how to observe it, and whether the ML fits.
+
+---
+
 ## Skills & Tools
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,python,java,jest,cypress,postgres,redis,rabbitmq,aws,docker,githubactions,git,linux,pytorch,tensorflow)](https://skillicons.dev)
