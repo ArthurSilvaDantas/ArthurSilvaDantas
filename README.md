@@ -10,7 +10,7 @@ I write software that is testable, maintainable, and built to scale. I think abo
 
 ## Skills & Tools
  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,python,java,jest,cypress,postgres,redis,rabbitmq,aws,docker,githubactions,git,linux,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,python,java,jest,cypress,postgres,redis,rabbitmq,aws,docker,githubactions,git,linux,pytorch,tensorflow,sklearn)](https://skillicons.dev)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api?username=ArthurSilvaDantas&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
